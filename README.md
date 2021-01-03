@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can reach me via email, or check my website at https://minabeshay.me/ for more info
+
 <!--
 **minaz912/minaz912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
